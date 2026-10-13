@@ -1,5 +1,5 @@
-// 把下面两项换成你 Supabase 项目里的值（Project Settings → API）
+// Supabase 项目配置（anon key 是可以公开的那一个）
 window.TRIP_CONFIG = {
-  url: '',   // 例如 https://abcdefgh.supabase.co
-  key: ''    // anon / publishable key（可以公开的那一个，不要填 service_role / secret）
+  url: 'https://xbhmnvhhikhbluxuowxv.supabase.co',
+  key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhiaG1udmhoaWtoYmx1eHVvd3h2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTE4NDc4NjQsImV4cCI6MjEwNzQyMzg2NH0.nX_X_XdDnM7HerAPtnpbdf-kgmMrTGrRp39VHBQI4h8'
 };
